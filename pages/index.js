@@ -5,6 +5,11 @@ import Nav from '../components/Nav'
 import Bg from '../components/Bg'
 import BgTwo from '../components/BgTwo'
 import Banner from '../components/Banner'
+import Pics from '../components/Pics'
+import BannerTwo from '../components/BannerTwo'
+import GridPics from '../components/GridPics'
+import Extra from '../components/Extra'
+import ExtraBullets from '../components/ExtraBullets'
 
 export default function Home() {
   return (
@@ -18,6 +23,11 @@ export default function Home() {
     <Bg/>
       <BgTwo/>
       <Banner/>
+      <Pics/>
+      <BannerTwo/>
+      <GridPics/>
+      <Extra/>
+      <ExtraBullets/>
     </div>
   )
 }

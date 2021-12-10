@@ -27,6 +27,17 @@
  
 }
 
+.gallery {
+  width: 100%;
+  height: 200px;
+}
+
+.bannertwo {
+  background-color: #1bd191;
+  height: 300px;
+  width: 100%;
+
+}
 
 .bgbtn {
   position: absolute;
