@@ -1,0 +1,48 @@
+.backgroundimage {
+  position: relative;
+  color: white;
+  width: 100%;
+  height: 500px;
+}
+
+.centered {
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-weight: bold;
+  font-size: 100px;
+ 
+}
+
+.centeredtwo {
+  position: absolute;
+  top: 180%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: black;
+  font-weight: bold;
+  font-size: 100px;
+ 
+}
+
+
+.bgbtn {
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  background-color: #3fd1af;
+  padding: 10px;
+  width: 150px;
+}
+
+.centeredp {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: grey;
+}
